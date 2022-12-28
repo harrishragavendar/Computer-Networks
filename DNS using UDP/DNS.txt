@@ -1,0 +1,4 @@
+www.google.com: 172.16.16.100
+www.mepcoeng.ac.in: 172.16.16.111
+www.yahoo.com: 165.11.11.200
+www.bing.com: 128.15.15.110

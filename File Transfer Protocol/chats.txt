@@ -1,0 +1,9 @@
+hi
+hello
+how_are_you?
+fine
+EXIT
+SHUTDOWN
+BYE
+EXIT
+EXIT
